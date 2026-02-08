@@ -2,7 +2,9 @@
 
 **Video Cutter Pro** is a modern, lightweight, and efficient desktop application for video editing tasks. Built with **Python**, it leverages the power of `MoviePy` for processing and `CustomTkinter` for a sleek, dark-themed user interface.
 
-
+## 📥 Download
+**Get the latest version for Windows:**
+[👉 Download Video Cutter Pro (.exe)](https://github.com/Omar-Ahmeed/Video-Cutter-Pro/releases/latest)
 ---
 
 ## ✨ Features
