@@ -2,7 +2,8 @@
 
 A modern, dark-themed desktop application for trimming videos, extracting audio, and adjusting playback speed. Built with **Python**, **CustomTkinter**, and **MoviePy**.
 
-![App Screenshot](https://via.placeholder.com/800x450?text=Video+Cutter+Pro+Screenshot)
+![App Screenshot](<img width="879" height="978" alt="image" src="https://github.com/user-attachments/assets/d3294479-f076-4ce8-a571-8ce6e6c156ec" />
+)
 > *Tip: Replace the link above with a screenshot of your actual application running.*
 
 ---
