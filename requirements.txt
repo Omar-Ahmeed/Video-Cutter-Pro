@@ -1,0 +1,7 @@
+customtkinter
+moviepy
+Pillow
+proglog
+imageio
+pyinstaller
+auto-py-to-exe
